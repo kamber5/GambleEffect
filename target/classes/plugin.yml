@@ -1,0 +1,11 @@
+name: GambleEffect
+version: 1.1
+main: com.serbcraft.gambleeffect.GambleEffect
+api-version: 1.16
+
+commands:
+  sceffect:
+    description: Ako si kockar, bolje kockaj se sa efektima nego parama.
+    usage: /sceffect gamble
+    permission: <plugin name>.basic
+    permission-message: Neas dozvolu buraz -- <permission>

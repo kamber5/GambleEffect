@@ -1,0 +1,11 @@
+name: ${name}
+version: ${version}
+main: ${mainClass}
+api-version: 1.16
+
+commands:
+  gambleeffect:
+    description: Ako si kockar, bolje kockaj se sa efektima nego parama.
+    usage: /gambleeffect gamble
+    permission: <plugin name>.basic
+    permission-message: Neas dozvolu buraz -- <permission>
